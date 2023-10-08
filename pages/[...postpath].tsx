@@ -18,7 +18,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					'https://showbiz.mraalionline.com'
+					'https://www.highcpmrevenuegate.com/k8sr3t2bg?key=f7e078d3b1f7ca9cba6147ac455506bf'
 				}`,
 			},
 		};
